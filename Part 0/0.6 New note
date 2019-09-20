@@ -1,0 +1,5 @@
+browser->server: JSON POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+
+server-->browser: [{ content: "HTML is easy", date: "2019-05-23" }, ...]
+End note
+
